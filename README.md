@@ -1,17 +1,35 @@
-# Netflix-SQL-Project
+# 🎬 Netflix SQL Project
 
-This project contains 50 SQL queries based on Netflix dataset.
+This project contains **50 SQL queries** performed on a Netflix dataset.
 
-## 📂 Files
-- basic_queries.sql
-- intermediate_queries.sql
-- advanced_queries.sql
-- netflix_titles.csv
+---
 
-## 💡 Concepts Used
-- SELECT, WHERE
-- GROUP BY, HAVING
-- JOIN
-- Subquery
-- CTE
+## 📂 Dataset
+- `netflix_titles.csv`
+
+---
+
+## 📁 SQL Files
+- `basic_queries.sql` → Beginner level queries  
+- `intermediate_queries.sql` → JOIN, Subquery, CTE  
+- `advanced_queries.sql` → Complex analysis queries  
+
+---
+
+## 🧠 Concepts Used
+- SELECT, WHERE  
+- GROUP BY, HAVING  
+- JOIN  
+- Subqueries  
+- CTE  
+
+---
+
+## 🎯 Project Goal
+To practice SQL from basic to advanced level using real-world dataset.
+
+---
+
+## 👩‍💻 Author
+Dhruvanshi Savaniya
   
