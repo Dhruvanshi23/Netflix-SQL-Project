@@ -28,8 +28,4 @@ This project contains **50 SQL queries** performed on a Netflix dataset.
 ## 🎯 Project Goal
 To practice SQL from basic to advanced level using real-world dataset.
 
----
-
-## 👩‍💻 Author
-Dhruvanshi Savaniya
   
